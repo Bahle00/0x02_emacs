@@ -1,0 +1,1 @@
+M-x find-file /ssh:bahle00@remote-host:/some/project 
